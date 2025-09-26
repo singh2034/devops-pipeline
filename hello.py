@@ -1,0 +1,1 @@
+print("I am learning CI/CD from github actions")
